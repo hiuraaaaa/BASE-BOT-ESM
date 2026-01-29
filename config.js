@@ -2,15 +2,15 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
       
-global.pairingNumber = 62881026602593
+global.pairingNumber = 6283821920285
 
 global.owner = [
-  ['62881026602593', 'Zavier', true]
+  ['62882006639544', 'Hiura', true]
 ]
 global.mods = []
 
-global.namebot = "Zavier"
-global.author = 'Zavier'
+global.namebot = "Alice Assistant"
+global.author = 'Hiura'
 
 global.wait = 'bentar'
 global.eror = 'error cik😹'
